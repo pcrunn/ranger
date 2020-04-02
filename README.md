@@ -35,14 +35,3 @@ benefit in doing this is that people will no longer have an excuse not to come
 hang around in #ranger : )
 
 [![asciicast](https://asciinema.org/a/epVQ6VIM7JHkBwrLy6pIztzvz.svg)](https://asciinema.org/a/epVQ6VIM7JHkBwrLy6pIztzvz)
-
-
-:warning: REDIRECT :warning:
-============================
-
-We don't want to abandon our valued users in their time of need so as of today
-we heartily recommend the EMACS-based
-[ranger.el](https://github.com/ralesi/ranger.el). We understand this might be
-hard to accept for our vim-partial userbase but guys, come on, stop living
-under a rock and accept that EMACS is the superior editor. Also, their
-figurehead is [a freaking ninja!](https://xkcd.com/225/)
